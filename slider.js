@@ -1,8 +1,8 @@
 var Imagenes = [
     "images/mini Yao.JPG",
     "images/My_Mates (1).jpg",
-    "images/My_Mates (3).jpg",
     "images/My_Mates (4).jpg",
+    "images/My_Mates (7).jpg",
     "images/My_Mates (5).jpg",
     "images/My_Mates (6).jpg",
     "images/Draw.jpg"

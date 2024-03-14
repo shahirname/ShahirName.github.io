@@ -9,7 +9,7 @@ function control()
 {
     //cremos objetos de fecha
     const ahora = new Date();
-    const final = new Date(2024, 1, 16);
+    const final = new Date(2025, 1, 16);
    
 
     //diferencia entre momentos de fecha
